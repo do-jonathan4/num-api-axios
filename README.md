@@ -1,4 +1,4 @@
-# num-api-ajax
+# num-api-axios
 
 A dynamic HTML, CSS, and JavaScript solo project.
 
