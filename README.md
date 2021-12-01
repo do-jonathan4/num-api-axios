@@ -18,4 +18,4 @@ A web application for those who want to look at interesting facts about numbers
 ## Preview
 ![alt text](app-preview.gif)
 
-## [Live](https://do-jonathan4.github.io/num-api-ajax/)
+## [Live](https://do-jonathan4.github.io/num-api-axios/)
